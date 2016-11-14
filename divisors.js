@@ -1,4 +1,4 @@
-console.log("Starting divisors.js");
+console.log("Starting divisors.js program");
 
 var x;
 
